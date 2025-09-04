@@ -70,7 +70,7 @@ Also look at [LEAP_Hand_API](https://github.com/leap-hand/LEAP_Hand_API/tree/mai
 
 ## Citing
 
-This effort was led by [Sri Anumakonda](https://srianumakonda.com/) with assistance from [Kenneth Shaw](https://kennyshaw.net) and advising by [Ankur Handa](https://ankurhanda.github.io/) and [Deepak Pathak](https://www.cs.cmu.edu/~dpathak/).
+This effort was led by [Sri Anumakonda](https://srianumakonda.com/) with assistance from [Kenneth Shaw](https://kennyshaw.net) and advising by [Ankur Handa](https://ankurhanda.github.io/) and [Deepak Pathak](https://www.cs.cmu.edu/~dpathak/)
 
 If you find LEAP hand or this codebase useful in your research, please cite:
 ```
@@ -84,6 +84,9 @@ If you find LEAP hand or this codebase useful in your research, please cite:
 ```
 
 If you need further assistance, feel free to reach out to us at [srianumakonda@cmu.edu](mailto:srianumakonda@cmu.edu) and [kshaw2@andrew.cmu.edu](mailto:kshaw2@andrew.cmu.edu) or open a GitHub issue if you encounter a bug.
+
+**License:**  MIT License.  Provided **as‑is**, without warranty.
+
 
 ## Acknowledgements 
 
